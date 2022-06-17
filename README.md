@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @archit1666
+- 👀 I’m interested in Python Django, SQL, R basics, Pandas and Numpy ...
+- 🌱 I’m currently learning many things from techincal aspects...
+- 📫 How to reach me https://www.linkedin.com/in/archit-kumar-926b3762/   ...
+
+<!---
+archit1666/archit1666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
